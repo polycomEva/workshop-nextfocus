@@ -1,0 +1,90 @@
+.container-mobile {
+  width: 414px;
+  background-color: #1e1e26;
+  color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 0px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: lighter;
+}
+.menu {
+    list-style: none;
+    padding: 0;
+    width: 714px;
+    margin: auto;
+    position: absolute;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.6);
+    }
+
+.logo_nextfocus {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width:160;
+  height: auto;
+  }
+
+.hamburger {
+  padding-left: 5px;
+  width: 20px;
+  height: auto;
+  }
+
+.div-hamburger {
+  position: absolute;
+  top: 28px;
+  left: 400px;
+  width: 100px;
+  }
+
+.avatar {
+  padding-left: 5px;
+  width: 20px;
+  height: auto;
+  }
+
+.div-person {
+  position: absolute;
+  top: 28px;
+  left: 773px;
+  width: 100px;
+  }
+
+h4 {
+  text-align: center;
+  font-weight: lighter;
+  margin-top: -8px;
+  margin-bottom: 8px;
+  margin-left: -20px;
+  }
+
+.arrow {
+  position:absolute;
+  padding-left: 5px;
+  width: 15px;
+  height: auto;
+  }
+
+.div-arrow{
+  position: absolute;
+  top: -24px;
+  left: 185px; 
+  width: 100px;
+  }
+
+.div-categories{
+text-align: center;
+padding-right: 290px;
+  }
+a {
+  text-decoration: none;
+  color: inherit;
+}

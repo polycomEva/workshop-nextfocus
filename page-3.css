@@ -1,0 +1,103 @@
+.container-mobile {
+  width: 414px;
+  background-color: #1e1e26;
+  color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 0px;¨
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+  font-family: Roboto;
+  font-size: 16px;
+}
+
+.logo_nextfocus {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width:160;
+  height: auto;
+  }
+
+.hamburger {
+  padding-left: 1px;
+  width: 20px;
+  height: auto;
+  }
+
+.div-hamburger {
+  position: absolute;
+  top: 28px;
+  left: 402px;
+  width: 100px;
+  }
+
+.avatar {
+  padding-left: 40px;
+  width: 20px;
+  height: auto;
+  }
+
+.div-person {
+  position: absolute;
+  top: 28px;
+  left: 756px;
+  width: 100px;
+  }
+
+.div-infos {
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: lighter;
+	font-style: italic;
+	padding-right: 300px;
+	}
+
+.notation {
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 20px;
+  width:30;
+  font-weight: lighter;
+  font-style: italic;
+  }
+
+  p{
+    color: white;
+    font-family: Roboto;
+    font-size: 12px;
+    margin-bottom: -10px;
+  }
+
+h2{
+  background-color: 20px solid grey;
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: lighter;
+  }
+
+.box {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 7px;
+  width: 156px;
+  height: 39px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.details {
+font-family: Roboto;
+  font-size: 14px;
+  font-weight: lighter;  
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
