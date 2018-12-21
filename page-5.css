@@ -20,31 +20,24 @@ body {
   padding-bottom: 20px;
   width:160;
   height: auto;
+  justify-self: center;
   }
 
 .hamburger {
-  padding-left: 5px;
   width: 20px;
   height: auto;
   }
 
 .div-hamburger {
-  position: absolute;
-  top: 28px;
-  left: 400px;
   width: 100px;
   }
 
 .avatar {
-  padding-left: 5px;
   width: 20px;
   height: auto;
   }
 
 .div-person {
-  position: absolute;
-  top: 28px;
-  left: 773px;
   width: 100px;
   }
 
@@ -152,4 +145,9 @@ h2{
   font-size: 14px;
   font-family: Roboto, sans-serif;
   font-weight: lighter;
+}
+.header {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: center;
 }
